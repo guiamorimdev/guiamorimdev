@@ -17,7 +17,7 @@ Estudante de Licenciatura em Computação na UFRPE (4º Período) e entusiasta d
 | :--- | :--- |
 | **Linguagens** | Java |
 | **Frameworks** | Spring Boot, Spring Data JPA |
-| **Banco de Dados** | PostgreSQL, JDBC |
+| **Banco de Dados** | MySQL, PostgreSQL, JDBC |
 | **Ferramentas** | Git, GitHub, IntelliJ |
 
 ---
