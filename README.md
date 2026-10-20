@@ -23,8 +23,8 @@ Estudante de Licenciatura em Computação na UFRPE (4º Período) e entusiasta d
 ---
 
 ### 📂 Meus Principais Projetos
-
-- **[Sistema de Biblioteca em Java](https://github.com/guiamorimdev/sistema-biblioteca)**: Um sistema desenvolvido utilizando Java puro para gerenciar operações e fluxos de uma biblioteca.
+- **[Sistema Bancário]((https://github.com/guiamorimdev/sistema-bancario))**: Um sistema desenvolvido utilizando Java criar e gerenciar contas de um banco.
+- **[Sistema de Biblioteca](https://github.com/guiamorimdev/sistema-biblioteca)**: Um sistema desenvolvido utilizando Java puro para gerenciar operações e fluxos de uma biblioteca.
 - **[Calculadora de IMC](https://github.com/guiamorimdev/Calculadora-IMC)**: Aplicação desenvolvida para calcular o Índice de Massa Corporal de forma prática.
 
 ---
